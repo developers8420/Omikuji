@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E537BD02-C5ED-4D83-B8E4-EDA5FFA67366</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SuitableOmikuji</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>66E8E036151CF9715E1C469DBED5C8B682367821</key>
+		<string>https://github.com/developers8420/Omikuji.git</string>
+		<key>EC1EA390C7FCA41E27038FB5A81F72D23A95891F</key>
+		<string>https://github.com/developers8420/SuitableOmikuji.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SuitableOmikuji.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>66E8E036151CF9715E1C469DBED5C8B682367821</key>
+		<string>../..</string>
+		<key>EC1EA390C7FCA41E27038FB5A81F72D23A95891F</key>
+		<string>../..SuitableOmikuji</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/developers8420/Omikuji.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>66E8E036151CF9715E1C469DBED5C8B682367821</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>66E8E036151CF9715E1C469DBED5C8B682367821</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Omikuji</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>EC1EA390C7FCA41E27038FB5A81F72D23A95891F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>OmikujiSuitableOmikuji</string>
+		</dict>
+	</array>
+</dict>
+</plist>

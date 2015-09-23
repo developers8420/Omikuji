@@ -14,11 +14,17 @@
 		64ED066B1BB2919A00656B27 /* SuitableOmikujiTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64ED066A1BB2919A00656B27 /* SuitableOmikujiTests.swift */; };
 		64ED06751BB291AC00656B27 /* TopViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64ED06741BB291AC00656B27 /* TopViewController.swift */; };
 		64ED06771BB291B800656B27 /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64ED06761BB291B800656B27 /* ResultViewController.swift */; };
-		64ED067C1BB2968B00656B27 /* 凶.png in Resources */ = {isa = PBXBuildFile; fileRef = 64ED06781BB2968B00656B27 /* 凶.png */; };
-		64ED067D1BB2968B00656B27 /* 小吉.png in Resources */ = {isa = PBXBuildFile; fileRef = 64ED06791BB2968B00656B27 /* 小吉.png */; };
-		64ED067E1BB2968B00656B27 /* 大吉.png in Resources */ = {isa = PBXBuildFile; fileRef = 64ED067A1BB2968B00656B27 /* 大吉.png */; };
-		64ED067F1BB2968B00656B27 /* 中吉.png in Resources */ = {isa = PBXBuildFile; fileRef = 64ED067B1BB2968B00656B27 /* 中吉.png */; };
 		64ED06811BB298BD00656B27 /* iAd.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 64ED06801BB298BD00656B27 /* iAd.framework */; };
+		64ED06981BB2AA3700656B27 /* Icon60@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 64ED06961BB2AA3700656B27 /* Icon60@2x.png */; };
+		64ED06991BB2AA3700656B27 /* iTunesArtwark.png in Resources */ = {isa = PBXBuildFile; fileRef = 64ED06971BB2AA3700656B27 /* iTunesArtwark.png */; };
+		64ED069C1BB2AA4300656B27 /* バツボタン@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 64ED069A1BB2AA4300656B27 /* バツボタン@2x.png */; };
+		64ED069D1BB2AA4300656B27 /* 占うボタン@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 64ED069B1BB2AA4300656B27 /* 占うボタン@2x.png */; };
+		64ED069F1BB2AA4D00656B27 /* Defaults.png in Resources */ = {isa = PBXBuildFile; fileRef = 64ED069E1BB2AA4D00656B27 /* Defaults.png */; };
+		64ED06A41BB2AA5A00656B27 /* 凶.png in Resources */ = {isa = PBXBuildFile; fileRef = 64ED06A01BB2AA5A00656B27 /* 凶.png */; };
+		64ED06A51BB2AA5A00656B27 /* 小吉.png in Resources */ = {isa = PBXBuildFile; fileRef = 64ED06A11BB2AA5A00656B27 /* 小吉.png */; };
+		64ED06A61BB2AA5A00656B27 /* 大吉.png in Resources */ = {isa = PBXBuildFile; fileRef = 64ED06A21BB2AA5A00656B27 /* 大吉.png */; };
+		64ED06A71BB2AA5A00656B27 /* 中吉.png in Resources */ = {isa = PBXBuildFile; fileRef = 64ED06A31BB2AA5A00656B27 /* 中吉.png */; };
+		64ED06A91BB2AA6400656B27 /* トップ背景.png in Resources */ = {isa = PBXBuildFile; fileRef = 64ED06A81BB2AA6400656B27 /* トップ背景.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -43,11 +49,17 @@
 		64ED066A1BB2919A00656B27 /* SuitableOmikujiTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SuitableOmikujiTests.swift; sourceTree = "<group>"; };
 		64ED06741BB291AC00656B27 /* TopViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TopViewController.swift; sourceTree = "<group>"; };
 		64ED06761BB291B800656B27 /* ResultViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
-		64ED06781BB2968B00656B27 /* 凶.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "凶.png"; path = "../../../おみくじ結果画像/凶.png"; sourceTree = "<group>"; };
-		64ED06791BB2968B00656B27 /* 小吉.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "小吉.png"; path = "../../../おみくじ結果画像/小吉.png"; sourceTree = "<group>"; };
-		64ED067A1BB2968B00656B27 /* 大吉.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "大吉.png"; path = "../../../おみくじ結果画像/大吉.png"; sourceTree = "<group>"; };
-		64ED067B1BB2968B00656B27 /* 中吉.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "中吉.png"; path = "../../../おみくじ結果画像/中吉.png"; sourceTree = "<group>"; };
 		64ED06801BB298BD00656B27 /* iAd.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = iAd.framework; path = System/Library/Frameworks/iAd.framework; sourceTree = SDKROOT; };
+		64ED06961BB2AA3700656B27 /* Icon60@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon60@2x.png"; sourceTree = "<group>"; };
+		64ED06971BB2AA3700656B27 /* iTunesArtwark.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = iTunesArtwark.png; sourceTree = "<group>"; };
+		64ED069A1BB2AA4300656B27 /* バツボタン@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "バツボタン@2x.png"; sourceTree = "<group>"; };
+		64ED069B1BB2AA4300656B27 /* 占うボタン@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "占うボタン@2x.png"; sourceTree = "<group>"; };
+		64ED069E1BB2AA4D00656B27 /* Defaults.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Defaults.png; sourceTree = "<group>"; };
+		64ED06A01BB2AA5A00656B27 /* 凶.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "凶.png"; sourceTree = "<group>"; };
+		64ED06A11BB2AA5A00656B27 /* 小吉.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "小吉.png"; sourceTree = "<group>"; };
+		64ED06A21BB2AA5A00656B27 /* 大吉.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "大吉.png"; sourceTree = "<group>"; };
+		64ED06A31BB2AA5A00656B27 /* 中吉.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "中吉.png"; sourceTree = "<group>"; };
+		64ED06A81BB2AA6400656B27 /* トップ背景.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "トップ背景.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,10 +117,16 @@
 		64ED06521BB2919A00656B27 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				64ED06781BB2968B00656B27 /* 凶.png */,
-				64ED06791BB2968B00656B27 /* 小吉.png */,
-				64ED067A1BB2968B00656B27 /* 大吉.png */,
-				64ED067B1BB2968B00656B27 /* 中吉.png */,
+				64ED06A81BB2AA6400656B27 /* トップ背景.png */,
+				64ED06A01BB2AA5A00656B27 /* 凶.png */,
+				64ED06A11BB2AA5A00656B27 /* 小吉.png */,
+				64ED06A21BB2AA5A00656B27 /* 大吉.png */,
+				64ED06A31BB2AA5A00656B27 /* 中吉.png */,
+				64ED069E1BB2AA4D00656B27 /* Defaults.png */,
+				64ED069A1BB2AA4300656B27 /* バツボタン@2x.png */,
+				64ED069B1BB2AA4300656B27 /* 占うボタン@2x.png */,
+				64ED06961BB2AA3700656B27 /* Icon60@2x.png */,
+				64ED06971BB2AA3700656B27 /* iTunesArtwark.png */,
 				64ED06531BB2919A00656B27 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -211,13 +229,19 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				64ED067D1BB2968B00656B27 /* 小吉.png in Resources */,
+				64ED06A41BB2AA5A00656B27 /* 凶.png in Resources */,
 				64ED065A1BB2919A00656B27 /* Main.storyboard in Resources */,
+				64ED06981BB2AA3700656B27 /* Icon60@2x.png in Resources */,
+				64ED06A91BB2AA6400656B27 /* トップ背景.png in Resources */,
 				64ED065F1BB2919A00656B27 /* LaunchScreen.xib in Resources */,
-				64ED067E1BB2968B00656B27 /* 大吉.png in Resources */,
-				64ED067C1BB2968B00656B27 /* 凶.png in Resources */,
-				64ED067F1BB2968B00656B27 /* 中吉.png in Resources */,
+				64ED069D1BB2AA4300656B27 /* 占うボタン@2x.png in Resources */,
+				64ED06A61BB2AA5A00656B27 /* 大吉.png in Resources */,
+				64ED06A51BB2AA5A00656B27 /* 小吉.png in Resources */,
+				64ED069C1BB2AA4300656B27 /* バツボタン@2x.png in Resources */,
 				64ED065C1BB2919A00656B27 /* Images.xcassets in Resources */,
+				64ED06991BB2AA3700656B27 /* iTunesArtwark.png in Resources */,
+				64ED069F1BB2AA4D00656B27 /* Defaults.png in Resources */,
+				64ED06A71BB2AA5A00656B27 /* 中吉.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -435,6 +459,7 @@
 				64ED06701BB2919A00656B27 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		64ED06711BB2919A00656B27 /* Build configuration list for PBXNativeTarget "SuitableOmikujiTests" */ = {
 			isa = XCConfigurationList;
@@ -443,6 +468,7 @@
 				64ED06731BB2919A00656B27 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
